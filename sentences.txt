@@ -1,0 +1,502 @@
+1. Good morning!
+2. What time is it?
+3. Can you help me with this?
+4. I’m sorry for the delay.
+5. Could you please repeat that?
+6. What’s your name?
+7. How are you today?
+8. They attend concerts.
+9. You participate in marathons.
+10. Where are you from?
+11. Nice to meet you.
+12. How was your day?
+13. I’m hungry. Let’s grab something to eat.
+14. Excuse me, where is the nearest restroom?
+15. Can you recommend a good book?
+16. Where is the nearest ATM?
+17. I’m not feeling well.
+18. How was your weekend?
+19. I can’t find my keys.
+20. Can you give me a hand?
+21. That’s a great idea!
+22. I’m so excited!
+23. What’s your favorite music genre?
+24. Have a safe trip!
+25. How much does it cost?
+26. How would you like steaks to be cooked?
+27. I want to go to the metro station.
+28. I want to go to the hospital.
+29. I want to introduce myself.
+30. Have you ever had a pet?
+31. What is your favorite season?
+32. My favorite actor is Shah Rukh Khan.
+33. She prefers coffee.
+34. They met him.
+35. I’m sorry, I couldn’t call you.
+36. I sent that yesterday.
+37. Make my apologies.
+38. She feels that too.
+39. She learned Arabic.
+40. Get up early.
+41. Go and play.
+42. Listen to me.
+43. Do you have any homework?
+44. Have your breakfast.
+45. What’s going on?
+46. Comb your hair.
+47. You may fall down.
+48. Enjoy yourself.
+49. See you next time.
+50. Bye, See you again!
+51. They go on sightseeing tours.
+52. You attend pottery workshops.
+53. Can you please repeat that?
+54. What do you do for a living?
+55. Hurrah! I won!
+56. Stop making such a noise!
+57. Walk carefully.
+58. Go slow from the crowd.
+59. How do you feel?
+60. I am very strict on this matter.
+61. I am busy at the moment.
+62. It has to be done.
+63. What is your favorite subject?
+64. All my calculations went wrong.
+65. Please clean the board.
+66. Why are you late?
+67. Are you lying?
+68. Don’t abuse him.
+69. Are the books put in the bag?
+70. Mam, I haven’t done my homework.
+71. Sorry, for being late.
+72. Who is your class teacher?
+73. You will not be able to deal with him.
+74. Did you get my point?
+75. I have a lot to talk about.
+76. Please clean the board.
+77. Please come as soon as possible.
+78. Can you turn the volume up?
+79. What do you think?
+80. What did you succeed in?
+81. Sorry for the inconvenience.
+82. Your name is on the list.
+83. Not the least!
+84. What is going on?
+85. The advantages of this are many.
+86. it is a lovely day.
+87. That’s so kind of you.
+88. Where is your office?
+89. You’re driving too fast.
+90. Have a good weekend.
+91. I don’t like long talks.
+92. His words have weight.
+93. Would you please speak slowly?
+94. What are you doing?
+95. Rod is the logic of fools.
+96. A crease is formed on the cloth.
+97. I shall reach by the 5.30 train.
+98. What are you doing today?
+99. It’s very thoughtful of you.
+100. The temperature will come down tomorrow.
+101. Have a good trip.
+102. Do you understand me?
+103. What nonsense!
+104. I am going to the playground.
+105. It is very hot today. Isn’t it?
+106. I want more money.
+107. What an idea!
+108. Thanks for this honor.
+109. No, not at all.
+110.You go swimming.
+111. I need to clean my room.
+112. I need to fix my computer.
+113. I need to buy some groceries.
+114. Can you lend me a hand?
+115. Can you help me with this math problem?
+116.How’s your day going so far?
+117. I’m really proud of you.
+118. I’m not feeling well today.
+119. I’m so glad to see you!
+120. I’ll be there in a few minutes.
+121. Let’s have a picnic.
+122. Can you pass me the remote?
+123. How was your weekend?
+124. What’s your favorite hobby?
+125. What’s your favorite TV show?
+126.Let’s take a break.
+127. I’m attending a wedding next week.
+128. We have backyard BBQs.
+129. How do you spell that word?
+130. Are you free this weekend?
+131. I’m feeling stressed out.
+132. Let’s go for a bike ride.
+133. I’m taking a cooking class.
+134. I am sorry.
+135. well done! Keep it up!
+136. I did not understand.
+137. What do you mean?
+138. What are you talking about?
+139. I am feeling tired today
+140.Thank You very much.
+141. What can I do for you?
+142. What is happening here?
+143. Could you please pass me the salt?
+144. Have a great day!
+145. You are my reason for living.
+146.Stop crying.
+147. When is the train leaving?
+148. It’s on the tip of my tongue
+149. I don’t like tall talk.
+150. He will not refrain from speaking.
+151. Do as I say.
+152. What is your job?
+153. My mind is reeling.
+154. Did you get my point?
+155. Where do you live?
+156. I really appreciate it.
+157. Would you like a drink?
+158. How do you feel about…?
+159. I’m returning your call.
+160. Can you tell me…?
+161. I’ll pay.
+162. I don’t want that.
+163. How’s work going?
+164. Don’t take it personally
+165. I hate you!
+166. It’s for the best.
+167. I talked with him.
+168. What is your contact number?
+169. What do you want to do?
+170. Are you there?
+171. Write with an improved hand.
+172. What would you like to have?
+173. Forget it
+174. Who will cooperate with you?
+175. It was nice to talk with you.
+176. Can you please repeat that?
+177. Don’t worry!
+178. How are things going?
+179. What do we call this in English?
+180. This is not a joke.
+181. I hope so.
+182. I don’t want to.
+183. Which date falls on Sunday?
+184. I am very pleased to meet you.
+185.  am feeling tired today.
+186. Sorry for the inconvenience.
+187. Why are you upset?
+188. Good day to you, Sir!
+189. Follow me
+190. You turn.
+191. He owes the shopkeeper fifty rupees.
+192. What a bother!
+193. Do me a favor.
+194. We will break, but not bend.
+195. I don’t have a single paisa.
+196. Read the sentences carefully.
+197. That’s so kind of you.
+198. Good heavens!
+199. It’s none of your business.
+200. I beg your pardon.
+201. It’s all yours.
+202. How disgraceful!
+203. I’m at the office.
+204. He had no money.
+205. His words have weight.
+206. Would you please speak slowly?
+207. It’s my pleasure.
+208. No, I don’t want it.
+209. But he did not budge an inch.
+210. Excuse me!
+211. Do you understand me?
+212. There is something wrong with his brain.
+213. You are my responsibility.
+214. As you please.
+215. Well done, dear!
+216. Where are you?
+217. How can I go to the town center?
+218. He has a nasal accent.
+219. Can I ask you something?
+220. I’m at home.
+221. I’m sorry I can’t assist you.
+222. See you next time!
+223. Don’t involve me in this matter.
+224. Do you agree with me?
+225. What’s your e-mail address?
+226. Good night!
+227. That/He is against me.
+228. Have a nice day.
+229. I am tired.
+230. Believe me.
+231.  You dance in classes.
+232. I go on photo shoots.
+233. We explore festivals.
+234. They embark on road trips.
+235. You ski in winter.
+236. I join book clubs.
+237. We watch movies.
+238. They birdwatch.
+239. You volunteer at shelters.
+240.I shall reach by 5.30 train.
+241. What are you doing today?
+242. Go up!
+243. He has a bad headache.
+244. It was nice meeting you.
+245. What do you need?
+246. His luck took a turn.
+247. Get ready to go to school.
+248. Could you help me?
+249. I just made it
+250. My watch is out of order.
+251. How are you?
+252. Are you done?
+253. All worship the rising sun.
+254. Stop making so much noise.
+255. I don’t have time
+256. Hurry up!
+257. Is everything OK?
+258. What time does the next train leave?
+259. He is still not well.
+260. What are you up to?
+261. I would love to.
+262. Fetch water from the well.
+263. How can I help you?
+264. What are your hobbies?
+265. I apologize.
+266. It has rained excessively today.
+267. Could you give me some money?
+268. What’s the weather like?
+269. You are going too fast.
+270. It’s a good beginning.
+271. He / She abused me.
+272. Will you now beat him to death?
+273. Where did you get it?
+274. Speak what is true.
+275. I do not want to know anything.
+276. Do come!
+277. How long will you stay?
+278. Please credit this amount to my account.
+279. Talk to you later.
+280. Rest assured.
+281. I cannot agree with your opinions.
+282. You have brought me to shame.
+283. Well done! Keep it up!
+284. Anything else?
+285. I don’t agree.
+286. What do you want?
+287. Please write down this address.
+288. Stop kidding.
+289. Are you sure?
+290. No, I don’t want.
+291. It is a strange thing.
+292. Could you show me your answer sheet?
+293. I’m sorry to interrupt you.
+294. Allow me!
+295. Will you go there or shall I?
+296. I made it.
+297. How can I go to the city?
+298. All are not like you?
+299. Make my apologies.
+300. Sorry, I can’t give you a lift.
+301. We have lost our way.
+302. We disagree about it.
+303. My car has broken down.
+304. They disappeared quickly.
+305. The tire of the car burst.
+306. How did you come to school on foot?
+307. Hello, how can I help you?
+308. Glad to meet you.
+309. Did your friend come to school today?
+310. All of you please stand up and make a move.
+311. Don’t sit idle!
+312. How did you come to know?
+313. Which side are you on?
+314. Take a look at this.
+315. I’m quite exhausted today.
+316. Do not be childish.
+317. It’s not like that.
+318. It’s a good thing.
+319. It’s your choice.
+320. Who called you?
+321. May I say something?
+322. Who said this?
+323. Do it again.
+324. Get off the way.
+325. Relax!
+326. Slow down.
+327. What happened?
+328. See him off.
+329. Not you.
+330. He is kind.
+331. Pray to God.
+332. Don’t worry.
+333. I can’t say.
+334. What is the time?
+335. How much?
+336. Absolutely not.
+336. I wake up early.
+337. We eat breakfast together.
+338. They drive to work.
+339. You walk to school.
+340. I brush my teeth.
+341. We cook dinner.
+342. They watch TV.
+343. You listen to music.
+344. I take a shower.
+345. We clean the house.
+346. They visit their grandparents.
+347. You play soccer.
+348. I read a book.
+349. We go grocery shopping.
+350. They go for a walk.
+351. You talk to your friend.
+352. I water the plants.
+353. We go on vacation.
+354. They study together.
+355. You go to the gym.
+356. I cook dinner.
+357. We watch a movie.
+358. They go to bed.
+359. You help your siblings.
+360. I go for a run.
+361. We go hiking.
+362. They go swimming.
+363. You meet your friends.
+364. I go to the cinema.
+365. We have a picnic.
+366. I commute by bus.
+367. We study together.
+368. They play games.
+369. You jog in the park.
+370. I study at the library.
+371. We tidy up.
+372. They watch movies.
+373. You walk the dog.
+374. I practice piano.
+375. We ride bikes.
+376. They visit museums.
+377. You attend yoga.
+378. I take photos.
+379. We have a BBQ.
+380. They attend concerts.
+381. You take your kids out.
+382. I learn languages.
+383. We camp outdoors.
+384. They volunteer.
+385. You learn cooking.
+386. You shop for groceries.
+387. I meet friends for lunch.
+388. We enjoy sunsets.
+389. They hike trails.
+390. You attend workshops.
+391. We picnic outdoors.
+392. They fish at the lake.
+393. You meditate.
+394. I buy fresh produce.
+395. We go on a cruise.
+396. They participate in runs.
+397. You swim laps.
+398. I admire art.
+399. We host BBQs.
+400. They taste wines.
+401.  I run marathons.
+402. They go wine tasting.
+403. You learn dance moves.
+404. I go on photo expeditions.
+405. We enjoy potlucks.
+406. They go on safaris.
+407. You learn cooking.
+408. I enjoy botanical gardens.
+409. We go camping.
+410. I take photography classes.
+411. We attend festivals.
+412. They run for charity.
+413. You go swimming.
+414. I visit galleries.
+415. We have backyard BBQs.
+416. How dare you?
+417. Let’s catch up!
+418. I volunteer at a garden.
+419. We organize picnics.
+420. They visit art exhibits.
+421. You cook new recipes.
+422. I visit parks.
+423. We host dinner parties.
+424. They go on wildlife tours.
+425. You practice instruments.
+426. I explore new trails.
+427. We attend live performances.
+428. They engage in outdoor activities.
+429. You attend cooking classes.
+430. I participate in community events.
+431. We plan family outings.
+432. They try new hobbies.
+433. You relax at home.
+434. I attend cultural festivals.
+435. We celebrate birthdays.
+436. They go on historical tours.
+437. You enjoy nature walks.
+438. I join fitness classes.
+439. We visit local markets.
+440. They take leisurely strolls.
+441. You attend art workshops.
+442. I learn about local history.
+443. We have picnics in parks.
+444. They go on brewery tours.
+445. You practice mindfulness.
+446. I explore new neighborhoods.
+447. We host game nights.
+448. They attend pottery classes.
+449. You take part in craft fairs.
+450. I explore farmers’ markets.
+451. We organize beach outings.
+452. They go on city tours.
+453. You attend photography workshops.
+454. I try new cuisines.
+We have movie marathons.
+455. They go on camping trips.
+457. I attend music festivals.
+458. We enjoy garden walks.
+459. They go on ghost tours.
+460. You explore countryside trails.
+461. I attend wellness retreats.
+462. We host barbecues.
+463. They go on sightseeing tours.
+464. You attend pottery workshops.
+465. I explore local landmarks.
+466. We organize hiking trips.
+467. They go on wine tastings.
+468. You practice meditation techniques.
+469. I take part in art exhibitions.
+470. We enjoy outdoor concerts.
+471. They attend food festivals.
+472. You explore nature reserves.
+473. I attend cooking demonstrations.
+474. We go on nature walks.
+475. They visit historical landmarks.
+476. You attend wellness workshops.
+477. I commute by bus.
+478. We study together.
+479. They play games.
+480. You jog in the park.
+481. I study at the library.
+482. We tidy up.
+483. They watch movies.
+484. You walk the dog.
+485. I practice piano.
+486. We ride bikes.
+487. They visit museums.
+488. You attend yoga.
+489. I take photos.
+490. We have a BBQ.
+491. They attend concerts.
+492. You take your kids out.
+493. I learn languages.
+494. We camp outdoors.
+495. They volunteer.
+496. You shop for groceries.
+497. I meet friends for lunch.
+498. We enjoy sunsets.
+499. They hike trails.
+500. You attend workshops
+
